@@ -33,23 +33,22 @@
 <table >
 <tr> <td > <div align="left"><b>Задачи</b></div> </td> <td> <div align="left">- Ручное тестирование функционала сайта (разработка чек-листов, тест-кейсов, формирование баг-репортов)</div> <div align="left">- Анализ технической документации</div></td> </tr>
  <tr> <td > <div align="left"><b>Технологии</b></div> </td> <td> <div align="left">DevTools, Google Sheets</div> </td> </tr>
-<tr> <td > <div align="left"><b>Результаты</b></div> </td> <td> <div align="left">- Разработан чек-лист тестирования личного кабинета зарегистрированного авторизованного пользователя</div> <div align="left">- Разработаны тест-кейсы для проверки функционала восстановления пароля</div> <div align="left">- Проведен анализ технической документации</div> <div align="left">- Выявлены 11 багов при тестировании функции «Написать отзыв» в карточке товара</div></td> </tr>
+<tr> <td > <div align="left"><b>Результаты</b></div> </td> <td> <div align="left">- Разработала чек-лист тестирования личного кабинета зарегистрированного авторизованного пользователя</div> <div align="left">- Разработала тест-кейсы для проверки функционала восстановления пароля</div> <div align="left">- Провела анализ технической документации</div> <div align="left">- Выявила 11 багов при тестировании функции «Написать отзыв» в карточке товара</div></td> </tr>
 </table>
 
 2. [Проект "Тестирование приложения для операций с банковскими счетами"](https://github.com/ElviraAnisenko/CreditAccount)
 <table >
 <tr> <td > <div align="left"><b>Задачи</b></div> </td> <td> <div align="left">- Тестирование кода приложения</div> <div align="left">- Поиск багов, формирование баг-репортов </div><div align="left">- Исправление багов, закрытие баг-репортов </div></td> </tr>
  <tr> <td > <div align="left"><b>Технологии</b></div> </td> <td> <div align="left">Intellij IDEA, Java, Maven, JUNIT, Jococo, GitHub</div> </td> </tr>
-<tr> <td > <div align="left"><b>Результаты</b></div> </td> <td> <div align="left">- Разработаны параметризированные тесты для проверки методов класса, описывающего сберегательный банковский счет </div> <div align="left">- Выявлены 12 багов, оформлены баг-репорты</div> <div align="left">- Исправлен код методов класса, описывающего кредитный банковский счет</div></td> </tr>
+<tr> <td > <div align="left"><b>Результаты</b></div> </td> <td> <div align="left">- Разработала параметризированные тесты для проверки методов класса, описывающего сберегательный банковский счет </div> <div align="left">- Выявила 12 багов, оформила баг-репорты</div> <div align="left">- Исправила код методов класса, описывающего кредитный банковский счет</div></td> </tr>
 </table>
 
 3. [Проект "Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка"](https://github.com/ElviraAnisenko/Diplom_QA)
 <table >
 <tr> <td > <div align="left"><b>Задачи</b></div> </td> <td> <div align="left">- Запуск контейнера PostgreSQL, MYSQL в Docker</div> <div align="left">- Автоматизация позитивных и негативных сценариев покупки тура на веб-приложении, включая UI-тесты на Selenide, тесты с запросами в СУБД </div><div align="left">- Оформление баг-репортов на выявленные баги </div></td> </tr>
  <tr> <td > <div align="left"><b>Технологии</b></div> </td> <td> <div align="left">Intellij IDEA, Java, Gradle, JUNIT, Docker, DBeaver, терминал Linux, MySQL, PostgreSQL, Allure, GitHubb</div> </td> </tr>
-<tr> <td > <div align="left"><b>Результаты</b></div> </td> <td> <div align="left">- Разработаны тест-кейсы, описывающие  позитивных и негативные сценарии </div><div align="left">- Разработаны UI-тесты, тесты с запросами в СУБД </div> <div align="left">- Сформирован отчет по тестированию Allure </div> <div align="left">- Выявлено 5 багов, оформлены баг-репорты</div></td> </tr>
+<tr> <td > <div align="left"><b>Результаты</b></div> </td> <td> <div align="left">- Разработала тест-кейсы, описывающие  позитивных и негативные сценарии </div><div align="left">- Разработала UI-тесты, тесты с запросами в СУБД </div> <div align="left">- Сформировала отчет по тестированию Allure </div> <div align="left">- Выявила 5 багов, оформила баг-репорты</div></td> </tr>
 </table>
-
 ***
 #### Обучение
 <div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/QA.jpg" title="Тестировщик ПО" alt="Тестировщик ПО" width="390" height="275"/>  <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/Manual%20testing.jpg" title="Ручное тестирование" alt="Ручное тестирование" width="390" height="275"/> </div> 
