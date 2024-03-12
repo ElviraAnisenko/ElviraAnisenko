@@ -6,30 +6,28 @@
 Переквалификация в сферу тестирования программного обеспечения меня мотивировало динамично развивающаяся сфера IT, интерес к решению технических задач, возможность быть не привязанной к месту работы. 
 В 2023 году я проходила обучение в Нетологии по курсу "Тестировщик ПО", в рамках которого  я изучала как Ручное тестирование веб-приложений, так и автоматизацию тестирования на Java.
 ***
-#### Технологии 
-<div>   <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/tools_Java_color.png" title="java" alt="java" width="45" height="45"/> 
-<img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/gradle-knowledge-graph-logo.png" title="java" alt="java" width="45" height="45"/>
-</div>
-
-***
-
-#### Инструменты
-<div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/tools_Docker_color.png" title="Docker" alt="Docker" width="45" height="45"/> 
+####
+<table>
+ <tr> <td> Технологии </td>  <td> <div>   <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/tools_Java_color.png" title="java" alt="java" width="45" height="45"/> 
+<img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/gradle-knowledge-graph-logo.png" title="java" alt="qradle" width="45" height="45"/>
+ <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_SQL_color.png" title="sql" alt="sql" width="45" height="45"/>
+</div>  </td>  </tr>
+ <tr> <td>  Инструменты </td>  <td> <div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/tools_Docker_color.png" title="Docker" alt="Docker" width="45" height="45"/> 
  <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="45" height="45"/> 
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/tools_IntelliJ_IDEA_color.png" title="IDEA" alt="IDEA" width="45" height="45"/> 
-</div>
-
-***
-#### Фреймворки
-<div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/tools_JUnit_color.png" title="junit" alt="junit" width="45" height="45"/>
+</div>  </td>  </tr>
+ <tr> <td>  Фреймворки </td>  <td> <div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/tools_JUnit_color.png" title="junit" alt="junit" width="45" height="45"/>
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/allure%20report.png" title="allure" alt="allure" width="45" height="45"/> 
-</div>
+</div>  </td>  </tr>
+</table>
+
+https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_SQL_color.png
 
 ***
-Мои проекты
+#### Мои проекты
 
 ***
-Обучение
+#### Обучение
 
 
 
