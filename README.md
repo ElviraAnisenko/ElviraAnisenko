@@ -11,14 +11,14 @@
 <table >
  <tr> <td > <div align="center"><b>Языки</b></div> </td> <td> <div align="center"><b>Инструменты<b/></div> </td> <td> <div align="center"><b>Фреймворки<b/></div> </td> </tr>
  <tr> <td> <div>   <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_Java_color.png" title="java" alt="java" width="45" height="45"/> 
-<img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_SQL_color.png" title="sql" alt="sql" width="45" height="45"/>
+<img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_SQL_color.png" title="sql" alt="sql" width="45" height="45"/> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/html.png" title="html" alt="html" width="45" height="45"/> 
 </div>  </td>  <td> <div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_Docker_color.png" title="Docker" alt="Docker" width="45" height="45"/> 
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="45" height="45"/> 
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_IntelliJ_IDEA_color.png" title="IDEA" alt="IDEA" width="45" height="45"/> 
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/1830380-middle.png" title="DBeaver" alt="DBeaver" width="45" height="45"/> 
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_JIRA_color.png" title="JIRA" alt="JIRA" width="45" height="45"/> 
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_Postman_color.png" title="Postman" alt="Postman" width="45" height="45"/> 
-<img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/gradle-knowledge-graph-logo.png" title="java" alt="qradle" width="45" height="45"/></div>  </td> 
+<img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/gradle-knowledge-graph-logo.png" title="qradle" alt="qradle" width="45" height="45"/> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/selenide%20(2).png" title="selenide" alt="selenide" width="45" height="45"/></div>  </td> 
  <td> <div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_JUnit_color.png" title="junit" alt="junit" width="45" height="45"/>
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/allure%20report.png" title="allure" alt="allure" width="45" height="45"/> 
 </div>  </td> 
@@ -43,11 +43,12 @@
 <tr> <td > <div align="left"><b>Результаты</b></div> </td> <td> <div align="left">- Разработаны параметризированные тесты для проверки методов класса, описывающего сберегательный банковский счет </div> <div align="left">- Выявлены 12 багов, оформлены баг-репорты</div> <div align="left">- Исправлен код методов класса, описывающего кредитный банковский счет</div></td> </tr>
 </table>
 
-
-
-
-
-
+3. [Проект "Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка"](https://github.com/ElviraAnisenko/Diplom_QA)
+<table >
+<tr> <td > <div align="left"><b>Задачи</b></div> </td> <td> <div align="left">- Запуск контейнера PostgreSQL, MYSQL в Docker</div> <div align="left">- Автоматизация позитивных и негативных сценариев покупки тура на веб-приложении, включая UI-тесты на Selenide, тесты с запросами в СУБД </div><div align="left">- Оформление баг-репортов на выявленные баги </div></td> </tr>
+ <tr> <td > <div align="left"><b>Технологии</b></div> </td> <td> <div align="left">Intellij IDEA, Java, Gradle, JUNIT, Docker, DBeaver, терминал Linux, MySQL, PostgreSQL, Allure, GitHubb</div> </td> </tr>
+<tr> <td > <div align="left"><b>Результаты</b></div> </td> <td> <div align="left">- Разработаны тест-кейсы, описывающие  позитивных и негативные сценарии </div><div align="left">- Разработаны UI-тесты, тесты с запросами в СУБД </div> <div align="left">- Сформирован отчет по тестированию Allure </div> <div align="left">- Выявлено 5 багов, оформлены баг-репорты</div></td> </tr>
+</table>
 
 ***
 #### Обучение
