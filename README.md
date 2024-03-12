@@ -43,8 +43,8 @@
 
 ***
 #### Обучение
-<div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/QA.jpg" title="Тестировщик ПО" alt="Тестировщик ПО" width="495" height="350"/>  <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/Manual%20testing.jpg" title="Ручное тестирование" alt="Ручное тестирование" width="495" height="350"/> </div> 
-<div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/Java.jpg" title="Java" alt="Java" width="495" height="350"/>  <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/Git.jpg" title="Git" alt="Git" width="495" height="350"/> </div> 
+<div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/QA.jpg" title="Тестировщик ПО" alt="Тестировщик ПО" width="425" height="300"/>  <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/Manual%20testing.jpg" title="Ручное тестирование" alt="Ручное тестирование" width="425" height="300"/> </div> 
+<div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/Java.jpg" title="Java" alt="Java" width="425" height="300"/>  <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/certificates/Git.jpg" title="Git" alt="Git" width="495" height="350"/> </div> 
 
 
  
